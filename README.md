@@ -1,10 +1,11 @@
-# RPP Inventory Management System - Demo Client
+# Inventory Management System - Demo Client
 
-This is a demo/duplicate version of the RPP Inventory Management System client.
+This is a demo/duplicate version of the Inventory Management System client.
 
 ## 🚀 Purpose
 
-This directory serves as a demonstration environment or a separate instance of the inventory management frontend.
+This directory serves as a demonstration environment or a separate instance of
+the inventory management frontend.
 
 ## 🛠️ Technology Stack
 
